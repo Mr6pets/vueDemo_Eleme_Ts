@@ -3,3 +3,4 @@
 
 npm install  create-vite@latest XXXXX
 
+hello6pets
