@@ -15,11 +15,13 @@ resolve:{
      "@":path.resolve(__dirname,'./src')
     }
   }
-step-3:配置别名(vite.config.ts)
+step-3:配置基础路由(vite.config.ts)
 
 
 
 ~~~
+
+
 
 
 
