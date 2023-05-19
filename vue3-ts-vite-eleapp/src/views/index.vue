@@ -1,13 +1,11 @@
 <template>
   <div>
-    main page111
+    首页
   </div>
 </template>
 
-<script>
-export default {
+<script setup lang="ts">
 
-}
 </script>
 
 <style scoped>
