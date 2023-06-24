@@ -28,7 +28,6 @@ withDefaults(defineProps<PropsType>(), {
   btnTitle: "",
   disabled: false,
   error: "",
-  
   })
 </script>
 

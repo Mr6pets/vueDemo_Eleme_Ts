@@ -1,4 +1,4 @@
-<script setup>
+<script setup xmlns="">
 import { ref } from "vue";
 import InputGroup from "@/components/InputGroup.vue";
 const typeNumber = ref("number");
