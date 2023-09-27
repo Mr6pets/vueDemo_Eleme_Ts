@@ -53,7 +53,7 @@ export default router;
 ~~~js
 import router from "./router";
 
-createApp(app).use(router).mount("#qpp");
+createApp(app).use(router).mount("#app");
 
 ~~~
 
